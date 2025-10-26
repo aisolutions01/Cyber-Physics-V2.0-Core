@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.667,
+  "recall_pos": 1.0,
+  "recall_neg": 0.5,
+  "events": 6,
+  "events_per_s": 0.302
+}
