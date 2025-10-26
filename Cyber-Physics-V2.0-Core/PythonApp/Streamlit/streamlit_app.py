@@ -1,5 +1,5 @@
 # ===============================
-# Streamlit Real-Time Dashboard (V2.0 - Simplified: Redis ONLY)
+# Streamlit Real-Time Dashboard
 # ===============================
 import streamlit as st
 import pandas as pd
