@@ -6,7 +6,7 @@ This repository demonstrates a **radical shift** from traditional, high-cost bat
 
 ---
 
-## 🚨 The Core Problem: Static, Slow, and Expensive AI
+## The Core Problem: Static, Slow, and Expensive AI
 
 Traditional AI in security (SIEM, AIOps) is fundamentally broken. It relies on a "batch training" model, which suffers from three critical flaws:
 
@@ -22,7 +22,7 @@ Traditional AI in security (SIEM, AIOps) is fundamentally broken. It relies on a
 
 ---
 
-## 💡 Our Solution: The On-the-Fly Adaptive Core
+## Our Solution: The On-the-Fly Adaptive Core
 
 **Cyber-Physics V2.0** eliminates the entire “training phase.”  
 The model learns from **every event as it arrives**, shifting from *Batch Learning* to true **Online Learning**.
@@ -61,7 +61,7 @@ The model learns from **every event as it arrives**, shifting from *Batch Learni
 
 ---
 
-## 🏗️ V2.0 Core Architecture
+## V2.0 Core Architecture
 
 This version introduces a high-performance modular design enabling true on-the-fly learning.
 
@@ -79,7 +79,7 @@ This version introduces a high-performance modular design enabling true on-the-f
 
 ---
 
-## ⚡ Repository Structure
+## Repository Structure
 
 ```text
 Cyber_Physics_Dataset_main/
