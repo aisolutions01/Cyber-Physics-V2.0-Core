@@ -164,7 +164,7 @@ If you use Cyber-Physics V2.0 in your research, please cite:
 
 Kazem, M. (2025). Cyber-Physics V2.0: The Adaptive AI Core. Zenodo.
 
-DOI: [to be added upon publication]
+DOI: https://doi.org/10.5281/zenodo.17448525
 
 ### Contact
 
