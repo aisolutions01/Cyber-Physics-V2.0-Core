@@ -1,4 +1,4 @@
-# ingest_api.py (V2.0 - Simplified: Redis ONLY)
+# ingest_api.py
 from flask import Flask, request, jsonify
 import threading
 from model_example import update_model_metrics
