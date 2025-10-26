@@ -109,7 +109,9 @@ Cyber_Physics_Dataset_main/
 
 ### Installation 
 git clone https://github.com/aisolutions01/Cyber-Physics-V2.0-Core.git
+
 cd cyber-physics-dataset/Streamlit
+
 pip install -r requirements.txt
 
 ### Run the Core
